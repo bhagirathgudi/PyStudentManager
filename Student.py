@@ -31,5 +31,4 @@ class HighSchoolStudent(Student):
         return original_value + "-HS"
 
 
-james = HighSchoolStudent("james")
-print(james.get_name_capitalize())
+
